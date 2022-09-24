@@ -4,7 +4,7 @@ and using questions from open trivia API. Show your
 general knowledge across 10 randomly generated questions,
 only 2 posibles answers, True or False.
 
-Music and sounds in the gui are posibble 
+Music and sounds in the gui are possible 
 thanks to the Playsound's 1.2.2 module. 
 .Exe file is by pyinstaller's module.
 
@@ -12,7 +12,7 @@ thanks to the Playsound's 1.2.2 module.
 
 ## Installation ##
 
-### -> Dowload the .Exe file!
+### -> Download the .Exe file!
 
 [Install link here!](https://drive.google.com/file/d/12YINSZATYlMRraQCCyPU7xoKnhxMpV-x/view?usp=sharing)
 
@@ -42,7 +42,7 @@ Once start it, you will need to answer 10 True or False
 questions. Try to get the perfect 10!
 
 Whenever your answer is correct a bunch of people will
-celebrate whit you through the sounds in game. The same 
+celebrate with you through the sounds in game. The same 
 way, When you fail they will feel bad with you.
 
 Don't like use your pc speakers? don't worry. Hearing
