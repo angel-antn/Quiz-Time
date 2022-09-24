@@ -18,7 +18,7 @@ thanks to the Playsound's 1.2.2 module.
 
 You will need to decompress the .Rar file.
 
-When you hace already decompress the .Rar file. Run to:
+When you have already decompressed the .Rar file. Run to:
 
 Quiz time! > dist > Quiz Time!.exe
 
@@ -35,7 +35,7 @@ file
 You will start at the menu, once you press "Play now!"
 the game will start
 
-![path](https://drive.google.com/uc?export=view&id=1SOfnPjfdp16M-xLlsZADoIRcDW5ubMxO)
+![menu](https://drive.google.com/uc?export=view&id=1SOfnPjfdp16M-xLlsZADoIRcDW5ubMxO)
 
 ### Game on! ###
 Once start it, you will need to answer 10 True or False
@@ -50,7 +50,7 @@ the people is not the only way to know if your answer it's
 correct. When your answer is correct the board will turn
 green, and when is not, it will turn red.
 
-![path](https://drive.google.com/uc?export=view&id=1mLbktr-748EGukIPOv2pxjKbBP5C5K12)
+![gameplay](https://drive.google.com/uc?export=view&id=1mLbktr-748EGukIPOv2pxjKbBP5C5K12)
 
 ## Finally, the special thanks goes to: ##
 
@@ -58,4 +58,4 @@ Thanks to Enmanuel Maestre Who helped me with the sound
 design for the game assets. The game would not feel the same
 without your work! Thanks a lot bro. 
 
-![path](https://drive.google.com/uc?export=view&id=12L61i9Iml-HPa8o7AOzgPNuImR3cGd3U)
+![bro](https://drive.google.com/uc?export=view&id=12L61i9Iml-HPa8o7AOzgPNuImR3cGd3U)
